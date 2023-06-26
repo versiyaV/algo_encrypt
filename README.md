@@ -8,7 +8,7 @@
 ## Установка
 
 ```bash
-  https://github.com/versiyaV/algo_encrypt.git
+  git clone https://github.com/versiyaV/algo_encrypt.git
   cd algo_encrypt
   cd sha-256
   make
