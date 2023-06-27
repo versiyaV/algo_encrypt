@@ -19,7 +19,8 @@
 ```bash
 ./example <argv>
 ```
-![Снимок экрана от 2023-06-26 18-35-16](https://github.com/versiyaV/algo_encrypt/assets/115622652/b6fc2f74-75cc-411d-8b2c-351e902defb4)
+![sha-256](https://github.com/versiyaV/algo_encrypt/assets/115622652/bab1ee17-2b7a-461e-b160-d260a0ecd28e)
+
 
 
 
